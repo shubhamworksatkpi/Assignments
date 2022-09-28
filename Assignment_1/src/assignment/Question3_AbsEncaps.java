@@ -1,6 +1,6 @@
 package assignment;
 
-public abstract class Question2_AbsEncaps {
+public abstract class Question3_AbsEncaps {
 	
 	String color;
 
@@ -11,7 +11,7 @@ public abstract class Question2_AbsEncaps {
 	
 
 
-	public Question2_AbsEncaps(String color)
+	public Question3_AbsEncaps(String color)
 	{
 		//System.out.println("Shape constructor called");
 		this.color = color;
