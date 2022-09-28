@@ -1,6 +1,6 @@
 package assignment;
 
-public class Question3_Rectangle extends Question3_AbsEncaps{
+public class Question3_Rectangle extends Question3_Encaps{
 
 	double length;
 	double width;

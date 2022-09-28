@@ -1,6 +1,6 @@
 package assignment;
 
-public class Question3_Circle extends Question3_AbsEncaps{
+public class Question3_Circle extends Question3_Encaps{
 
 	double radius;
 
