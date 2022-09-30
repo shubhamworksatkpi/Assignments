@@ -4,6 +4,10 @@
 
 package assignment3;
 
+/**
+ * @author Shubham Khule
+ *
+ */
 @FunctionalInterface
 public interface Question1_FunctionalInterface1 {
 	

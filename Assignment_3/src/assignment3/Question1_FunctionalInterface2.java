@@ -4,6 +4,10 @@
 
 package assignment3;
 
+/**
+ * @author Shubham Khule
+ *
+ */
 public class Question1_FunctionalInterface2 {
 	
 	public static void main(String args[])
