@@ -6,7 +6,7 @@ import java.util.stream.*;
 public class Question6_ArrayList {
 	
 
-	    public static void main(String[] args)
+	    public int arraylistprogram()
 	    {
 
 	        ArrayList<String> arr1 = new ArrayList<String>();
@@ -84,7 +84,7 @@ public class Question6_ArrayList {
      int position = retain.indexOf("Shubham Khule");
      System.lineSeparator();
      System.out.println("the position of the common element is:"+position);
-     
+     return position;
 	   
 	    }
 

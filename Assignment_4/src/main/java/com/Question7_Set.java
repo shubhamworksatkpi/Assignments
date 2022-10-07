@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class Question7_Set {
 	
-	public static void main(String[] args)
+	public int setprogram()
 	{	    
 		
 	
@@ -33,7 +33,7 @@ public class Question7_Set {
 		        
 		    System.out.println("Last element of Set is: "+ lastEle);
 		          
-			
+			return lastEle;
 	}
 
 
